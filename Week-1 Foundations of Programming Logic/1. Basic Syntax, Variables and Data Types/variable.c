@@ -9,5 +9,6 @@ int main()
 
     char ami = "K";
     printf("%c", ami);
+    
     return 0;
 }

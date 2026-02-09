@@ -17,5 +17,6 @@ int main()
 
     int mod = a % b;
     printf("Modulus of a and b is: %d\n", mod);
+    
     return 0;
 }
